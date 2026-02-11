@@ -1,2 +1,8 @@
-This are the Output screenshots of the Problem statement. 
+📊 Output Screenshots
+Raw vs Smoothed Temperature
 
+Temperature vs Humidity Correlation
+
+Temperature Distribution Histogram
+
+Heatmap Visualization
