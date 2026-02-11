@@ -36,6 +36,22 @@ smart_city_analysis.m → Main MATLAB implementation
 
 Report.pdf → Final submission report (optional upload)
 
+
+## 📊 Output Screenshots
+
+### Raw vs Smoothed Temperature
+![Raw vs Smoothed](screenshots/raw_vs_smoothed.png)
+
+### Temperature vs Humidity Correlation
+![Correlation Plot](screenshots/correlation_plot.png)
+
+### Temperature Distribution Histogram
+![Histogram](screenshots/histogram.png)
+
+### Heatmap Visualization
+![Heatmap](screenshots/heatmap.png)
+
+
 Author
 
 Siddharth Bhagwat
